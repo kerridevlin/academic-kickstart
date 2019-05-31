@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a first-year PhD student in Linguistics at UCLA. My broad research interests center on theoretical syntax, the syntax-semantics interface, and fieldwork. My aim is to conduct theoretically-oriented fieldwork on under-documented languages that yields versatile data while simultaneously contributing to the documentation of endangered African languages. Currently, my research is on Avatime-- an endangered Kwa language spoken in the Volta region of Ghana. 
