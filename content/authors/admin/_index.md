@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kerrianne Devlin
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student in linguistics at UCLA 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UCLA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include syntax, the syntax-semantics interface, fieldwork, and psycholinguistics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Syntax
+- Syntax-semantics interface
+- Fieldwork
+- Psycholinguistics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: (in progress) PhD in Linguistics
+    institution: UCLA
+  - course: B.A. in Linguistics
+    institution: University of Massachusetts, Amherst
+    year: 2019
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
