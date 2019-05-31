@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: (in progress) PhD in Linguistics
-    institution: UCLA
+    institution: University of California, Los Angeles
   - course: B.A. in Linguistics
     institution: University of Massachusetts, Amherst
     year: 2019
