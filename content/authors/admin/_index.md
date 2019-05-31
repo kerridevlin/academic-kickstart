@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in linguistics at UCLA 
+role: Linguistics PhD student
 
 # Organizations/Affiliations
 organizations:
