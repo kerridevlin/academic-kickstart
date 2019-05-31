@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first-year PhD student in Linguistics at UCLA. My broad research interests center on theoretical syntax, the syntax-semantics interface, and fieldwork. My aim is to conduct theoretically-oriented fieldwork on under-documented languages that yields versatile data while simultaneously contributing to the documentation of endangered African languages. Currently, my research is on Avatime-- an endangered Kwa language spoken in the Volta region of Ghana. 
+I am a first-year PhD student in Linguistics at UCLA. My broad research interests center on theoretical syntax, the syntax-semantics interface, and fieldwork. My aim is to conduct theoretically-oriented fieldwork on under-documented languages to yield versatile data that contributes to syntactic theory while simultaneously contributing to the documentation of endangered African languages. Currently, my research is on Avatime-- an endangered Kwa language spoken in the Volta region of Ghana. 
