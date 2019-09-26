@@ -10,10 +10,7 @@ weight = 70  # Order that this section will appear.
 title = "Recent & Upcoming Talks"
 subtitle = ""
 
-[content]
-
-ACAL 50 
-
+[ACAL 50]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
