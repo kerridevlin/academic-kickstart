@@ -1,6 +1,6 @@
 ---
 title: Example Talk
-event: Academic Theme Conference
+event: ACAL 50
 event_url: https://example.org
 
 location: Source Themes HQ
@@ -27,5 +27,5 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 ---
