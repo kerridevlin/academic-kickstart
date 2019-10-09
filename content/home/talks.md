@@ -10,7 +10,7 @@ weight = 70  # Order that this section will appear.
 title = "Recent & Upcoming Talks"
 subtitle = ""
 
-title = "Default Case in Khoekhoegowab"
+[content]
 
 # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
